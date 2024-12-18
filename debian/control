@@ -1,0 +1,11 @@
+Source: my_program
+Section: utils
+Priority: optional
+Maintainer: Your Name <email@example.com>
+Standards-Version: 4.5.0
+
+Package: my_program
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: A simple C++ program
+ This is a sample program for DevOps.
