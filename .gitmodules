@@ -1,0 +1,3 @@
+[submodule "my_project"]
+    path = my_project
+    url = <url>
